@@ -1,0 +1,12 @@
+[
+    {
+        "task": "Build backend APIs",
+        "owner": "Ajeet",
+        "status": "pending"
+    },
+    {
+        "task": "Design UI",
+        "owner": "Chunnu",
+        "status": "pending"
+    }
+]
