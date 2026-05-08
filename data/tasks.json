@@ -8,5 +8,520 @@
         "task": "Design UI",
         "owner": "Chunnu",
         "status": "pending"
+    },
+    {
+        "task": "Serve as acting full-stack manager for security policies while Ian is recruited.",
+        "owner": "Alan",
+        "status": "pending"
+    },
+    {
+        "task": "Migrate product sections from \u201csector data science\u201d into the new \u201cData Science\u201d umbrella.",
+        "owner": "Anti-Abuse team",
+        "status": "pending"
+    },
+    {
+        "task": "Set up, monitor, and iterate the container-security bot for weekly recruitment of volunteers to process threat-insight data (weekly check-ins Mon/Sun, ongoing monitoring).",
+        "owner": "Tiago / Ops",
+        "status": "pending"
+    },
+    {
+        "task": "Finalise and publish the talent-assessment draft timeline in the handbook and Workday by mid-December (sign-off by mid-December).",
+        "owner": "Juliana",
+        "status": "pending"
+    },
+    {
+        "task": "Compile & report engineering-allocation data (error budgets, reliability, security incidents) on an ongoing weekly basis.",
+        "owner": "Thomas (with Neil handling half)",
+        "status": "pending"
+    },
+    {
+        "task": "Adopt the new Data-Science structure and ensure groups report accordingly, immediately.",
+        "owner": "Team leads",
+        "status": "pending"
+    },
+    {
+        "task": "Update the handbook to reflect Anti-Abuse split and Data-Science stages, as needed during transition.",
+        "owner": "Unspecified",
+        "status": "pending"
+    },
+    {
+        "task": "Review changes around refinement and prepare a report on findings by the end of the quarter.",
+        "owner": "J (team lead)",
+        "status": "pending"
+    },
+    {
+        "task": "Review changes around refinement and prepare a report on findings by the end of the quarter.",
+        "owner": "Neil",
+        "status": "pending"
+    },
+    {
+        "task": "Review changes around refinement and prepare a report on findings by the end of the quarter.",
+        "owner": "Tiago",
+        "status": "pending"
+    },
+    {
+        "task": "Lead the discussion at the development office on improving engineering velocity, immediately (ongoing).",
+        "owner": "John Hope",
+        "status": "pending"
+    },
+    {
+        "task": "Review the survey results on MR-rate improvement and decide which recommendations to adopt or discard within the next two weeks (informal).",
+        "owner": "Group (all)",
+        "status": "pending"
+    },
+    {
+        "task": "Finalize the naming/color scheme for the new Dynamic Analysis team (currently unresolved).",
+        "owner": "Unnamed (internal)",
+        "status": "pending"
+    },
+    {
+        "task": "Schedule the first weekly refinement meeting to break stories into very small pieces for the next sprint.",
+        "owner": "Product-Engineering team",
+        "status": "pending"
+    },
+    {
+        "task": "Populate the 'Looking Forward' section in the findings feature with issues that need refinement in the next 1\u20133 milestones, by the next milestone.",
+        "owner": "Team member(s) responsible for backlog grooming (e.g., Omar/Thomas)",
+        "status": "pending"
+    },
+    {
+        "task": "Close the open issue and attach meeting notes immediately after the meeting.",
+        "owner": "Meeting facilitator (Speaker)",
+        "status": "pending"
+    },
+    {
+        "task": "Draft a remediation plan for CVE-related security findings (container scanning, Debian images) before the next milestone.",
+        "owner": "Security / Compliance lead",
+        "status": "pending"
+    },
+    {
+        "task": "Run security-finding evaluation for commercial Analyzer version before the next product release.",
+        "owner": "Security-analysis subteam",
+        "status": "pending"
+    },
+    {
+        "task": "Monitor MR rate comparison between Sec and company-wide data on an ongoing basis, reviewing every sprint.",
+        "owner": "Analytics / Ops team",
+        "status": "pending"
+    },
+    {
+        "task": "Verify with each team whether the new approval rules are affecting their workflow immediately \u2013 follow-up as soon as possible.",
+        "owner": "Team leads (including Thomas)",
+        "status": "pending"
+    },
+    {
+        "task": "Review the ApSec container-scanning instructions and confirm configuration alignment ASAP; implementation to begin after review.",
+        "owner": "DevOps or designated container-security lead",
+        "status": "pending"
+    },
+    {
+        "task": "Provide feedback on the proposed team name \u201cenrichment\u201d tomorrow (Thomas will discuss with David).",
+        "owner": "David DeSanto",
+        "status": "pending"
+    },
+    {
+        "task": "Confirm that the team name change only impacts his team and does not disrupt others during the discussion with David DeSanto, and follow up on the development off-site action item Daniel mentioned ASAP.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Draft and distribute the updated meeting template with new sections (work-anniversary, new-hire, gratitude/praise); add these new sections to the official meeting template document; and link Slack announcement channels to the new template sections, all by the next meeting.",
+        "owner": "Fernando (Speaker/Facilitator)",
+        "status": "pending"
+    },
+    {
+        "task": "Encourage team members to use the new sections of the meeting template at their discretion on an ongoing basis.",
+        "owner": "Team",
+        "status": "pending"
+    },
+    {
+        "task": "Collect feedback on the development department\u2019s vision, mission, and direction ASAP.",
+        "owner": "Daniel Croft",
+        "status": "pending"
+    },
+    {
+        "task": "Complete the spreadsheet activity (10-15 min) to help shape the mission/vision within the next week.",
+        "owner": "Anyone interested",
+        "status": "pending"
+    },
+    {
+        "task": "Audit and update the engineering projects page and the handbook to list all maintainers (including senior-plus engineers) ASAP.",
+        "owner": "Seth",
+        "status": "pending"
+    },
+    {
+        "task": "Alan to assume acting role as full-stack manager for security policies, starting immediately.",
+        "owner": "Alan",
+        "status": "pending"
+    },
+    {
+        "task": "Data Science and Anti-Abuse Leads to execute the transition of anti-abuse sections into Data Science and plan a future split by the next meeting.",
+        "owner": "Data Science / Anti-Abuse Leads",
+        "status": "pending"
+    },
+    {
+        "task": "Tiago to finalize container-security bot configuration and ensure weekly volunteer prompts, with the first run by next Monday.",
+        "owner": "Tiago",
+        "status": "pending"
+    },
+    {
+        "task": "Juliana to confirm talent-assessment dates (mid-Oct \u2013 Dec) and update the handbook and Workday timeline for mid-December sign-off.",
+        "owner": "Juliana",
+        "status": "pending"
+    },
+    {
+        "task": "Team to review meeting notes and not rely on the Slack channel for updates, on an ongoing basis.",
+        "owner": "Team",
+        "status": "pending"
+    },
+    {
+        "task": "Speaker (acting EM) to define the new Dynamic Analysis team\u2019s name and role differentiation, and coordinate the split along feature categories.",
+        "owner": "Speaker",
+        "status": "pending"
+    },
+    {
+        "task": "J to review changes around refinement and prepare a report on findings by the end of the quarter.",
+        "owner": "J",
+        "status": "pending"
+    },
+    {
+        "task": "Tiago & Neil to re-evaluate the \u201cfreedom science\u201d initiatives and decide on next steps (discussion pending).",
+        "owner": "Tiago & Neil",
+        "status": "pending"
+    },
+    {
+        "task": "All team members to review the survey on improving the \u201cm array\u201d and identify actionable items (pending review).",
+        "owner": "Team (all)",
+        "status": "pending"
+    },
+    {
+        "task": "Engineer(s) to add new issues to the \u201cLooking Forward\u201d baseline for the next milestone before the next refinement meeting.",
+        "owner": "Engineer(s)",
+        "status": "pending"
+    },
+    {
+        "task": "Omar to confirm MR rate trends and report to the team weekly during refinement.",
+        "owner": "Omar",
+        "status": "pending"
+    },
+    {
+        "task": "Security Team to draft remediation plans for all CVE security findings, with the first draft by the end of the current sprint.",
+        "owner": "Security Team",
+        "status": "pending"
+    },
+    {
+        "task": "Security Team to investigate Debian-image findings and decide on fix/no-fix status within the current sprint.",
+        "owner": "Security Team",
+        "status": "pending"
+    },
+    {
+        "task": "Speaker / Thomas (team leads) to verify whether the new approval rules are affecting any team\u2019s workflow, monitoring ASAP and ongoing.",
+        "owner": "Speaker / Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "AppSec / Development Ops to apply the baseline container-scanning configuration to all UBI images ASAP.",
+        "owner": "AppSec / Development Ops",
+        "status": "pending"
+    },
+    {
+        "task": "Speaker to present the \u201cenrichment\u201d team name proposal to David DeSanto and gather feedback tomorrow.",
+        "owner": "Speaker",
+        "status": "pending"
+    },
+    {
+        "task": "David DeSanto to provide feedback on the proposed team name to the speaker after tomorrow's discussion.",
+        "owner": "David DeSanto",
+        "status": "pending"
+    },
+    {
+        "task": "Meeting facilitator to update the meeting template with new work anniversary and new hire announcement sections by the next meeting.",
+        "owner": "Meeting facilitator",
+        "status": "pending"
+    },
+    {
+        "task": "Fernando (shadowing Wayne) to draft and circulate the updated meeting document immediately.",
+        "owner": "Fernando",
+        "status": "pending"
+    },
+    {
+        "task": "Slack channel owner to ensure Slack bot/announcements cover all team members, not just the group, ASAP.",
+        "owner": "Slack channel owner",
+        "status": "pending"
+    },
+    {
+        "task": "Retrospective coordinator to integrate gratitude/spotlight links into the meeting and retrospective documents by the next retrospective.",
+        "owner": "Retrospective coordinator",
+        "status": "pending"
+    },
+    {
+        "task": "Meeting facilitator to communicate the new process for meeting sections to the entire team and encourage voluntary use by the next meeting.",
+        "owner": "Meeting facilitator",
+        "status": "pending"
+    },
+    {
+        "task": "Anyone interested to fill out the \u201cDevelopment Vision & Mission\u201d spreadsheet (10\u201315 min each) by the end of next week.",
+        "owner": "Anyone interested",
+        "status": "pending"
+    },
+    {
+        "task": "Seth (and team if needed) to scrub and update the engineering projects page to list all maintainers within the next week.",
+        "owner": "Seth",
+        "status": "pending"
+    },
+    {
+        "task": "Thomas to follow-up on the development off-site action item within the next week.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Team owner to review and confirm the maintainer-requirement policy for senior+ engineers ASAP.",
+        "owner": "Team Owner",
+        "status": "pending"
+    },
+    {
+        "task": "Compile and report on error budgets, reliability, and security incidents for multiple teams.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Take over half of the tasks related to compiling and reporting on error budgets, reliability, and security incidents.",
+        "owner": "Neil",
+        "status": "pending"
+    },
+    {
+        "task": "Volunteer weekly to review container security data, as pinged by the container security bot.",
+        "owner": "Team members",
+        "status": "pending"
+    },
+    {
+        "task": "Update the handbook with new information.",
+        "owner": "Bill",
+        "status": "pending"
+    },
+    {
+        "task": "Continue using Google Docs for self-evaluations and manager work until Work Day access is established.",
+        "owner": "All",
+        "status": "pending"
+    },
+    {
+        "task": "Review and discuss the plan for the new team within Dynamic Analysis.",
+        "owner": "All",
+        "status": "pending"
+    },
+    {
+        "task": "Read and consider survey results on improving MR rate, particularly Jay's proposed changes around refinement and Tiago/Neil's plans for freedom of science.",
+        "owner": "All",
+        "status": "pending"
+    },
+    {
+        "task": "Implement changes to improve MR rate based on survey results by the end of the quarter.",
+        "owner": "All",
+        "status": "pending"
+    },
+    {
+        "task": "Lead a discussion on improving engineering velocity.",
+        "owner": "John",
+        "status": "pending"
+    },
+    {
+        "task": "Review and propose changes around refinement by the end of the quarter.",
+        "owner": "Jay",
+        "status": "pending"
+    },
+    {
+        "task": "Implement plans for freedom of science.",
+        "owner": "Tiago and Neil",
+        "status": "pending"
+    },
+    {
+        "task": "Lead the new team within Dynamic Analysis.",
+        "owner": "Acting EM",
+        "status": "pending"
+    },
+    {
+        "task": "Follow up on issue related to security findings on commercial versions of analyzer.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Continue refining issues and implementing remediation plans for security findings.",
+        "owner": "The team",
+        "status": "pending"
+    },
+    {
+        "task": "Help chase down answers related to security issues.",
+        "owner": "Nikhil George",
+        "status": "pending"
+    },
+    {
+        "task": "Run the proposed name change \"enrichment\" by David DeSanto.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Add sections for work anniversaries and new hires to the meeting template.",
+        "owner": "Ken",
+        "status": "pending"
+    },
+    {
+        "task": "Link to Slack announcements in the meeting document and verbally acknowledge them during meetings.",
+        "owner": "Thomas and Fernando",
+        "status": "pending"
+    },
+    {
+        "task": "Open a spreadsheet and follow instructions to provide feedback on Daniel Croft's request for input on the development vision, mission, and direction within the next week.",
+        "owner": "Interested team members",
+        "status": "pending"
+    },
+    {
+        "task": "Review and update the engineering projects page to ensure accurate information about maintainers.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Update the handbook with new information about the anti-abuse team's move and other changes.",
+        "owner": "Team",
+        "status": "pending"
+    },
+    {
+        "task": "Determine the name and differentiation for the new team within Dynamic Analysis.",
+        "owner": "Acting EM for New Dynamic Analysis Team",
+        "status": "pending"
+    },
+    {
+        "task": "Review and discuss the results of the survey on improving MR rate.",
+        "owner": "Team",
+        "status": "pending"
+    },
+    {
+        "task": "Report back on changes around refinement.",
+        "owner": "Neil",
+        "status": "pending"
+    },
+    {
+        "task": "Revisit freedom of science.",
+        "owner": "Tiago, Neil",
+        "status": "pending"
+    },
+    {
+        "task": "Review and add own issues to the 'Looking Forward' section for refinement.",
+        "owner": "Engineers",
+        "status": "pending"
+    },
+    {
+        "task": "Continue discussion on what to do with security findings on commercial versions of analyzer (specifically related to Debian-based images that have not been fixed or won't be fixed).",
+        "owner": "Team",
+        "status": "pending"
+    },
+    {
+        "task": "Check with their teams if the new approval rules on segregation of duties are affecting them.",
+        "owner": "Team Members",
+        "status": "pending"
+    },
+    {
+        "task": "Run team name change by David DeSanto and consider feedback on whether to rename the team from 'sec growth and data science' to something like 'enrichment'.",
+        "owner": "Thomas",
+        "status": "pending"
+    },
+    {
+        "task": "Start adding announcements for work anniversaries and new hires, gratitude, and spotlights to the meeting template.",
+        "owner": "Team",
+        "status": "pending"
+    },
+    {
+        "task": "Provide feedback on the development vision and mission.",
+        "owner": "Daniel Croft",
+        "status": "pending"
+    },
+    {
+        "task": "Review and update the engineering projects page with correct maintainer information.",
+        "owner": "Seth",
+        "status": "pending"
+    },
+    {
+        "task": "Provide insight into the current COVID-19 landscape in Vermont.",
+        "owner": "Dr. Lisa Bisbeam",
+        "status": "pending"
+    },
+    {
+        "task": "Discuss the position on universal masking in schools.",
+        "owner": "The group",
+        "status": "pending"
+    },
+    {
+        "task": "Explore the data on transmission prevention with masking.",
+        "owner": "The group",
+        "status": "pending"
+    },
+    {
+        "task": "Consider new guidance from the American Academy of Pediatrics and the Centers for Disease Control.",
+        "owner": "The group",
+        "status": "pending"
+    },
+    {
+        "task": "Think about other mitigation strategies to share with parents and staff (e.g., keeping sick kids home, getting tested, encouraging sick time for parents).",
+        "owner": "Bisa",
+        "status": "pending"
+    },
+    {
+        "task": "Continue to emphasize the importance of staying home when sick.",
+        "owner": "Schools/Staff",
+        "status": "pending"
+    },
+    {
+        "task": "Implement contact tracing measures.",
+        "owner": "Epi team",
+        "status": "pending"
+    },
+    {
+        "task": "Review dining experiences and maintain social distancing recommendations (at least 3-6 feet apart).",
+        "owner": "Schools",
+        "status": "pending"
+    },
+    {
+        "task": "Develop strategies for kids to eat in a way that minimizes risk of transmission (e.g., masking when unmasked, maintaining distancing).",
+        "owner": "The group",
+        "status": "pending"
+    },
+    {
+        "task": "Communicate effectively with parents who are skeptical about the vaccine.",
+        "owner": "The group",
+        "status": "pending"
+    },
+    {
+        "task": "Educate parents about the COVID vaccine, addressing specific concerns (e.g., comparing to other vaccines, mRNA safety, risk comparison).",
+        "owner": "Speaker (healthcare professional)",
+        "status": "pending"
+    },
+    {
+        "task": "Work with students who want to get vaccinated but are being held back by their parents.",
+        "owner": "Speaker (healthcare professional)",
+        "status": "pending"
+    },
+    {
+        "task": "Develop a plan for how often surveillance testing will be conducted.",
+        "owner": "ALE/Schools",
+        "status": "pending"
+    },
+    {
+        "task": "Coordinate with school nurses to help students get swabbed and results sent out to the Broad Institute.",
+        "owner": "School nurses",
+        "status": "pending"
+    },
+    {
+        "task": "Update the COVID-19 dashboard board on a weekly basis.",
+        "owner": "Bonnie and another person",
+        "status": "pending"
+    },
+    {
+        "task": "Continue to monitor breakthrough cases and their impact on communities.",
+        "owner": "The group",
+        "status": "pending"
+    },
+    {
+        "task": "Educate children and families about the importance of vaccination and prevention measures (e.g., masking, testing).",
+        "owner": "The group",
+        "status": "pending"
     }
 ]
